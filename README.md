@@ -11,7 +11,7 @@ In practice: my tools never impersonate official clients or read other apps' dat
 
 - **[llm-usage-overlay](https://github.com/nyakojiru/llm-usage-overlay)** — know how much AI you're using without handing your data to anyone else. Always-on-top Windows overlay for Claude, ChatGPT and OpenCode plan limits and Anthropic/OpenAI API spend. Rust + Tauri 2, MIT.
 - **[proofkey](https://github.com/nyakojiru/proofkey)** — Grammarly-style writing assistant for Chrome with your own API key or an on-device model. No backend, no telemetry.
-- **[mcp-config-audit](https://github.com/nyakojiru/mcp-config-audit)** — audits MCP configuration files for hardcoded keys, plaintext transports and over-broad permissions. SARIF output.
-- **[epub2audiobook](https://github.com/nyakojiru/epub2audiobook)** — epub to chaptered audiobook with a stable voice, plus the measured research behind it.
+- **[mcp-config-audit](https://github.com/nyakojiru/mcp-config-audit)** *(archived)* — audits MCP configuration files for hardcoded keys, plaintext transports and over-broad permissions. SARIF output.
+- **[epub2audiobook](https://github.com/nyakojiru/epub2audiobook)** *(archived)* — epub to chaptered audiobook with a stable voice, plus the measured research behind it.
 
 → [patriciollorens.com](https://patriciollorens.com)
