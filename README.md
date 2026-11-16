@@ -14,4 +14,12 @@ In practice: my tools never impersonate official clients or read other apps' dat
 - **[mcp-config-audit](https://github.com/nyakojiru/mcp-config-audit)** *(archived)* — audits MCP configuration files for hardcoded keys, plaintext transports and over-broad permissions. SARIF output.
 - **[epub2audiobook](https://github.com/nyakojiru/epub2audiobook)** *(archived)* — epub to chaptered audiobook with a stable voice, plus the measured research behind it.
 
+### At Sukima Labs
+
+Projects I created, now hosted under [Sukima Labs](https://github.com/sukima-labs):
+
+- **[Descargo](https://github.com/sukima-labs/descargo)** — free, local tools for students to prove authorship when Turnitin or a similar detector flags their work, with step-by-step guides per country. Runs in the browser; your files never leave it. AGPL-3.0. → [try it](https://sukimalabs.com/descargo/)
+- **[Finde](https://github.com/sukima-labs/finde)** — weekend getaways from Madrid by car: pick cities, set the time in each and get the route. Static site, OpenStreetMap data, MIT. → [sukimalabs.com/finde](https://sukimalabs.com/finde/)
+- **[EsTimo](https://github.com/sukima-labs/estimo)** *(archived)* — rental-listing scam detector: a green / amber / red light with the reason for each signal. Closed in November 2026; the guides and a [post-mortem](https://github.com/sukima-labs/estimo/blob/main/POSTMORTEM.md) stay. MIT.
+
 → [patriciollorens.com](https://patriciollorens.com)
