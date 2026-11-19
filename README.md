@@ -22,4 +22,4 @@ Projects I created, now hosted under [Sukima Labs](https://github.com/sukima-lab
 - **[Finde](https://github.com/sukima-labs/finde)** — weekend getaways from Madrid by car: pick cities, set the time in each and get the route. Static site, OpenStreetMap data, MIT. → [sukimalabs.com/finde](https://sukimalabs.com/finde/)
 - **[EsTimo](https://github.com/sukima-labs/estimo)** *(archived)* — rental-listing scam detector: a green / amber / red light with the reason for each signal. Closed in November 2026; the guides and a [post-mortem](https://github.com/sukima-labs/estimo/blob/main/POSTMORTEM.md) stay. MIT.
 
-→ [patriciollorens.com](https://patriciollorens.com)
+→ [jirulabs.com](https://jirulabs.com)
